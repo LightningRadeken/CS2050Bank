@@ -1,0 +1,6 @@
+Program begins
+Program collects the users name and stores it in user
+Program asks for what type of accounts the user has open
+User initalizes the balance for the accounts
+User is able to display account balance along with bank interest rates
+Program thanks the user for their time and closes
